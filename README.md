@@ -11,4 +11,4 @@ Python | SQL | Apache Beam | GCP | Azure | Data Analytics | Hadoop | Airflow
 
 
 ### Stats
-[![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvvishwesh-lang)](https://github.com/pvvishwesh-lang/github-readme-stats)
+![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvvishwesh-lang&show_icons=true&theme=radical)
