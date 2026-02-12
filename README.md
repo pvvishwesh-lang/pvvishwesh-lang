@@ -8,7 +8,3 @@ Ex-Associate Data Engineer @Brillio, currently pursuing my Masters of Science in
 ### Skills
 Python | SQL | Apache Beam | GCP | Azure | Data Analytics | Hadoop | Airflow
 
-
-
-### Stats
-![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvvishwesh-lang&show_icons=true&theme=radical)
