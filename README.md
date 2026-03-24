@@ -6,5 +6,5 @@ Certified Google Cloud Professional Data Engineer and Associate Cloud Engineer w
 Ex-Associate Data Engineer @Brillio, currently pursuing my Masters of Science in Data Analytics Engineering @Northeastern University. Passionate about Data Engineering, analytics, Cloud solutions and working on projects that solve real-life problems.
 
 ### Skills
-Python | SQL | Apache Beam | GCP | Azure | Data Analytics | Hadoop | Airflow
+Python | SQL | Apache Beam | GCP | Azure | Data Analytics | Hadoop | Airflow | PySpark | Databricks
 
